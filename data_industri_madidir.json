@@ -3,103 +3,53 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "nama": "PT. Agro Makmur Raya Madidir Unet"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [125.166288064053, 1.44321939021317]
-      }
+      "properties": { "nama": "PT. Agro Makmur Raya Madidir Unet" },
+      "geometry": { "type": "Point", "coordinates": [125.166288064053, 1.44321939021317] }
     },
     {
       "type": "Feature",
-      "properties": {
-        "nama": "PT. Multi Nabati Sulawesi"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [125.162850152373, 1.44234980483499]
-      }
+      "properties": { "nama": "PT. Multi Nabati Sulawesi" },
+      "geometry": { "type": "Point", "coordinates": [125.162850152373, 1.44234980483499] }
     },
     {
       "type": "Feature",
-      "properties": {
-        "nama": "PT. Deho Canning Company"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [125.155993141014, 1.44055959502238]
-      }
+      "properties": { "nama": "PT. Deho Canning Company" },
+      "geometry": { "type": "Point", "coordinates": [125.155993141014, 1.44055959502238] }
     },
     {
       "type": "Feature",
-      "properties": {
-        "nama": "PT. RD Pacific International"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [125.154958346842, 1.44064954777228]
-      }
+      "properties": { "nama": "PT. RD Pacific International" },
+      "geometry": { "type": "Point", "coordinates": [125.154958346842, 1.44064954777228] }
     },
     {
       "type": "Feature",
-      "properties": {
-        "nama": "PT. Sinar Pure Foods International"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [125.157187290614, 1.44181780135578]
-      }
+      "properties": { "nama": "PT. Sinar Pure Foods International" },
+      "geometry": { "type": "Point", "coordinates": [125.157187290614, 1.44181780135578] }
     },
     {
       "type": "Feature",
-      "properties": {
-        "nama": "PT Mitra Distribusi Mandiri (Depo Bitung)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [125.128810256269, 1.44779405312675]
-      }
+      "properties": { "nama": "PT Mitra Distribusi Mandiri (Depo Bitung)" },
+      "geometry": { "type": "Point", "coordinates": [125.128810256269, 1.44779405312675] }
     },
     {
       "type": "Feature",
-      "properties": {
-        "nama": "PT Indofood ICBP Sukses Makmur Tbk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [125.175139967468, 1.44225772538752]
-      }
+      "properties": { "nama": "PT Indofood ICBP Sukses Makmur Tbk" },
+      "geometry": { "type": "Point", "coordinates": [125.175139967468, 1.44225772538752] }
     },
     {
       "type": "Feature",
-      "properties": {
-        "nama": "PT. Sari Cakalang"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [125.17427325108, 1.4399681128204]
-      }
+      "properties": { "nama": "PT. Sari Cakalang" },
+      "geometry": { "type": "Point", "coordinates": [125.17427325108, 1.4399681128204] }
     },
     {
       "type": "Feature",
-      "properties": {
-        "nama": "PT. STEMAR JAYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [125.178692084638, 1.44789855270115]
-      }
+      "properties": { "nama": "PT. STEMAR JAYA" },
+      "geometry": { "type": "Point", "coordinates": [125.178692084638, 1.44789855270115] }
     },
     {
       "type": "Feature",
-      "properties": {
-        "nama": "PT. Samudra Mandiri Sentosa"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [125.151613300275, 1.44081358318545]
-      }
+      "properties": { "nama": "PT. Samudra Mandiri Sentosa" },
+      "geometry": { "type": "Point", "coordinates": [125.151613300275, 1.44081358318545] }
     }
   ]
 }
